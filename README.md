@@ -1,3 +1,5 @@
+**ALGORITHMS\:**  
+
 10  Eat OR photo-synthesize  
 20  Survive  
 30  Reproduce  
